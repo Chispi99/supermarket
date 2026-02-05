@@ -9,8 +9,8 @@
     {
         "name": "Bebidas",
         "products": [
-            { "name": "Agua", "description": "", "price": 0.8 },
-            { "name": "Cerveza", "description": "", "price": 1 }
+            { "name": "Agua", "description": "botella de plástico de 1.5 litros llena de agua mineral fresca", "price": 0.8 },
+            { "name": "Cerveza", "description": "una preciosidad perfecta para cualquier momento del día y siempre fría por pa caliente ya estan...", "price": 1 }
         ]
     }
 ]
