@@ -1,10 +1,10 @@
-import { Product } from "/.clases\product.js";
+import { Product } from "./product.js";
 
 export class ProductCategory
 {
-    constructor(name, products) 
+    constructor(name, products)
     {
-        this.name=name;
+        this.name = name;
         this.products = products;
     }
 }
